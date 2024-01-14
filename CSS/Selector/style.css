@@ -1,0 +1,26 @@
+ /* Element Selector */
+ body{
+  background-color: rgb(172, 152, 107)
+}
+
+/* . is for classes
+# is for ids */
+.W_Heading{
+  color: rgb(86, 115, 125);
+}
+
+/* #Welcome{
+  background-color: rgb(2s6, 14, 198);
+} */
+
+/* Multiple Selector */
+#Welcome, #About{
+  border: 1px solid darkslateblue;
+  padding: 10px;
+  margin-bottom: 5px;
+}
+
+/* Nested Selector */
+#Welcome p{
+  font-size: 10px;
+}

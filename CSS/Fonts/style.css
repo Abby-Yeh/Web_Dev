@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Kenia&display=swap');
+
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Using Google Fonts https: //fonts.google.com */
+
+body{ 
+  font-family: 'Kenia', sans-serif;
+}
+
+/* CSS Units: Absolute
+ cm
+ mm
+ in
+ px: pixels (1px = 1/96th of 1 in)
+ pt
+ pc
+*/
+
+/* Font Size 
+  default is 16px
+  */
+
+body {
+  font-size: 20px;
+  line-height: 2em;
+}
+
+
+/* CSS Units: Relative
+  %: to parent element
+  em: to font-size of parent element
+  rem: to font-size of root element
+  vw: to 1% of viewport width
+  vh: to 1% of viewport height
+*/
